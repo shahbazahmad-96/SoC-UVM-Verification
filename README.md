@@ -1,2 +1,2 @@
-# Soc-UVM-Verification
-Soc-UVM-Verification
+# SoC-UVM-Verification
+SoC-UVM-Verification
